@@ -2,7 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Website-MetaDocencia.org-blue)](https://www.metadocencia.org/)
 ![License](https://img.shields.io/badge/license-CC--BY%204.0-lightgrey)
-![MetaDocencia](https://img.shields.io/badge/Building-scientific_capacity-brightgreen)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMetaDocencia.MetaDocencia%2Fvisits)
+
 
 ## ¿Quiénes somos?
 Somos una comunidad que construye capacidades científicas y técnicas, con perspectiva local y responsable. Lo hacemos de forma innovadora, co-creando redes, espacios de aprendizaje y recursos para comunidades hispanohablantes.
