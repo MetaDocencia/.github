@@ -26,7 +26,7 @@ Nos proponemos consolidar a América Latina en el mapa global de la investigaci�
 
 💬 ¿Te gustaría colaborar? 
 ¡Estamos siempre abiertos a nuevas colaboraciones! 🚀
-Contactanos a través de nuestra [web oficial](https://www.metadocencia.org/).
+Revisá nuestra [guía de contribuciones](https://github.com/MetaDocencia/docs/blob/0ca4b81551431ff0385a2ce507a5b1094dbfda07/CONTRIBUIR.md#L4) o contactanos a través de nuestra [web oficial](https://www.metadocencia.org/).
 
 ✨¡Gracias por visitarnos! 
 
