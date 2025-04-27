@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-MetaDocencia.org-blue)](https://www.metadocencia.org/)
 ![License](https://img.shields.io/badge/license-CC--BY%204.0-lightgrey)
-![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMetaDocencia.MetaDocencia%2Fvisits)
+![Visitors](https://img.shields.io/badge/dynamic/json?)
 
 
 ## ¿Quiénes somos?
