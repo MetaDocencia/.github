@@ -44,13 +44,13 @@ We are a community that builds scientific and technical capacities with a local 
 🔗 [Team](https://www.metadocencia.org/en/equipo/) • [Fellow communities](https://www.metadocencia.org/en/panal/) • [Community guidelines](https://www.metadocencia.org/en/pdc/)
 
 ## Our Pillars
-📚 Training
+📚 Training  
 Our education, science, and research values nurture this pillar, which is the basis of all the projects that build scientific and technical capacities in a responsible and accessible way.
 
-🤝 Community
+🤝 Community  
 Our community value shares its name with this pillar, which also allows us to put into practice our integrity, wellbeing, inclusion, and diversity values. This pillar supports projects that liaise with different communities and generate networks so that the production, communication, and application of scientific and technical knowledge are globally equitable.
 
-🌎 Contextualization
+🌎 Contextualization  
 Based on our values of diversity, autonomy, and versatility, this pillar promotes the development of a Latin American perspective in all the projects where we co-create networks, learning spaces, and resources for Spanish-speaking communities.
 
 ## Next 5 years:
