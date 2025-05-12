@@ -11,13 +11,13 @@ Somos una comunidad que construye capacidades científicas y técnicas, con pers
 🔗 [Equipo](https://www.metadocencia.org/equipo/) • [Comunidades amigas](https://www.metadocencia.org/panal/) • [Pautas de convivencia](https://www.metadocencia.org/pdc/)
 
 ## Nuestros pilares
-📚 Formación
+📚 Formación  
 Educación, ciencia e investigación como base de nuestros proyectos.
 
-🤝 Comunidad
+🤝 Comunidad  
 Integridad, bienestar, inclusión y diversidad como motores de nuestras redes.
 
-🌎 Contextualización
+🌎 Contextualización  
 Una mirada latinoamericana que impulsa diversidad, autonomía y versatilidad.
 
 ## Próximos 5 años:
